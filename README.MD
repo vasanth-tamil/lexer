@@ -5,7 +5,7 @@
 * Lexer(string, bool)
   * **void** print()
   * **int** getLine()
-  * **vector<string>** getTokens()
+  * **vector\<string\>** getTokens()
 
 **Lexer Simple Code :**
 
