@@ -2,7 +2,7 @@
 
 **Class**
 
-* Lexer(<string>, <bool>)
+* Lexer(string, bool)
   * **void** print()
   * **int** getLine()
   * **vector<string>** getTokens()
