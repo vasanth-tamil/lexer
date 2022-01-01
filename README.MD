@@ -59,7 +59,7 @@ str:hello, world
 
 **Features :**
 
-* customize  **`Keywords`**
-* **`Edit File: `**  `utility.hpp` 
-  * **`std::string keywords[]  {}`**
+* Customize :  `Keywords`
+* Edit File :  `utility.hpp` 
+* `std::string keywords[]  {}`
 
